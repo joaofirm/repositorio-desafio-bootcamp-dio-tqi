@@ -1,2 +1,2 @@
-# repositorio-desafio-bootcamp-dio-tqi
+# Repositório desafio DIO
 Repositório para desafios do bootcamp TQI FullStack da DIO
